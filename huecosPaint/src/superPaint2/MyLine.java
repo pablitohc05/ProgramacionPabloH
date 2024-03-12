@@ -9,7 +9,7 @@ import java.awt.Graphics;
 public class MyLine extends MyShape
 {  
     /**
-     * No parameter constructor which calls the no parameter constructor in MyShape
+ //    * No parameter constructor which calls the no parameter constructor in MyShape
      */
     public MyLine()
     {
